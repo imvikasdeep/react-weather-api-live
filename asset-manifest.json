@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-weather-api-live/static/css/main.05487bed.chunk.css",
+    "main.js": "/react-weather-api-live/static/js/main.9bd335ad.chunk.js",
+    "main.js.map": "/react-weather-api-live/static/js/main.9bd335ad.chunk.js.map",
+    "runtime-main.js": "/react-weather-api-live/static/js/runtime-main.2dd316e7.js",
+    "runtime-main.js.map": "/react-weather-api-live/static/js/runtime-main.2dd316e7.js.map",
+    "static/js/2.eaed646f.chunk.js": "/react-weather-api-live/static/js/2.eaed646f.chunk.js",
+    "static/js/2.eaed646f.chunk.js.map": "/react-weather-api-live/static/js/2.eaed646f.chunk.js.map",
+    "index.html": "/react-weather-api-live/index.html",
+    "precache-manifest.2f6631e22b91e6944c25c31758e35c33.js": "/react-weather-api-live/precache-manifest.2f6631e22b91e6944c25c31758e35c33.js",
+    "service-worker.js": "/react-weather-api-live/service-worker.js",
+    "static/css/main.05487bed.chunk.css.map": "/react-weather-api-live/static/css/main.05487bed.chunk.css.map",
+    "static/js/2.eaed646f.chunk.js.LICENSE.txt": "/react-weather-api-live/static/js/2.eaed646f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-weather-api-live/static/media/alberto-restifo-BNHcxk1CDdw-unsplash.f5673112.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dd316e7.js",
+    "static/js/2.eaed646f.chunk.js",
+    "static/css/main.05487bed.chunk.css",
+    "static/js/main.9bd335ad.chunk.js"
+  ]
+}
